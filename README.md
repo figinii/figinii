@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Metamorphose by M.C. Escher](assets/metamorphose_escher.png)
 
 Yo  <img src="assets/parrot.gif" width="2.5%" alt="description">, I'm Matteo Figini, 
@@ -27,3 +28,21 @@ I also have a background experience in Software Engineering and High Performance
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="25", height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="k8s" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="25" height="25"/>
+=======
+## Hi there 👋
+
+<!--
+**figinii/figinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> e780b94 (Initial commit)
