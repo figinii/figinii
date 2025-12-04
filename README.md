@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Metamorphose by M.C. Escher](assets/metamorphose_escher.png)
 
 Yo  <img src="assets/parrot.gif" width="2.5%" alt="description">, I'm Matteo Figini, 
@@ -29,6 +30,8 @@ I also have a background experience in Software Engineering and High Performance
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="k8s" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="25" height="25"/>
 =======
+=======
+>>>>>>> e780b94efdca6c145eb86caff74bbedd9b19d4f9
 ## Hi there 👋
 
 <!--
@@ -45,4 +48,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<<<<<<< HEAD
 >>>>>>> e780b94 (Initial commit)
+=======
+>>>>>>> e780b94efdca6c145eb86caff74bbedd9b19d4f9
