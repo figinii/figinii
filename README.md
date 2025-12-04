@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ![Metamorphose by M.C. Escher](assets/metamorphose_escher.png)
 
 Yo  <img src="assets/parrot.gif" width="2.5%" alt="description">, I'm Matteo Figini, 
