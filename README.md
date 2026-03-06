@@ -1,7 +1,7 @@
 ![Metamorphose by M.C. Escher](assets/metamorphose_escher.png)
 
 Yo  <img src="assets/parrot.gif" width="2.5%" alt="description">, I'm Matteo Figini, 
-a MSc student in Computer Engineering at Politecnico di Milano and University of Illinois Chicago.
+a MSc student in Computer Science and Engineering at Politecnico di Milano and University of Illinois Chicago.
 
 I’m primarily focused on the broad area of Machine Learning, with a particular interest in understanding model behavior and its implications for safety.
 I also have a background experience in Software Engineering and High Performance Computing.
